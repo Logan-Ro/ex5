@@ -10,6 +10,7 @@ namespace ex5
     {
         static void Main(string[] args)
         {
+            //déclarations
             int age;
             Console.WriteLine("Entrez votre âge : ");
             age = int.Parse(Console.ReadLine());
